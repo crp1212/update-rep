@@ -1,6 +1,7 @@
 {
     "version": "1.0.1",
     "files": [
-        "1.0.1/index.html"
+        "1.0.1/index.html",
+        "1.0.1/main.js"
     ]
 }
